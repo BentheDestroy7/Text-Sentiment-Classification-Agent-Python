@@ -1,6 +1,5 @@
 # Benjamin Van der Ploeg
 # 101139487
-# COMP 3106 Asssignment 4
 
 import os
 import math 
